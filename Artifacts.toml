@@ -1,0 +1,113 @@
+[[libatomic_ops]]
+arch = "aarch64"
+git-tree-sha1 = "bc56d586f1ea0ea14b83437c9ea32c52cd4f423a"
+libc = "glibc"
+os = "linux"
+
+    [[libatomic_ops.download]]
+    sha256 = "d5f70198d927f0e57ae0e6c6082ce02aafda504c37482157216d83a9b465ef5f"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.aarch64-linux-gnu.tar.gz"
+[[libatomic_ops]]
+arch = "aarch64"
+git-tree-sha1 = "0ef1eb4d1407146eaf93d73a6d1a53efe73bea0e"
+libc = "musl"
+os = "linux"
+
+    [[libatomic_ops.download]]
+    sha256 = "14cbe3553fafc420328f8f1a03598e1b0422d0ab88c037860e6b549639bebce5"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.aarch64-linux-musl.tar.gz"
+[[libatomic_ops]]
+arch = "armv7l"
+git-tree-sha1 = "1b0d4f8b3446e95f818f464d86e54191a7555492"
+libc = "glibc"
+os = "linux"
+
+    [[libatomic_ops.download]]
+    sha256 = "02410fb4960c820e554cfc2d0996d9f32cdcc742f802ac108c8bb846a25219aa"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.armv7l-linux-gnueabihf.tar.gz"
+[[libatomic_ops]]
+arch = "armv7l"
+git-tree-sha1 = "2c8eeca2af5fa27dfc7bbb7bdade9778822bb688"
+libc = "musl"
+os = "linux"
+
+    [[libatomic_ops.download]]
+    sha256 = "1c202000cff727801aa8b905dff7f202aecd91c7eca9f2d3649d73de04abc936"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.armv7l-linux-musleabihf.tar.gz"
+[[libatomic_ops]]
+arch = "i686"
+git-tree-sha1 = "e3d3460400e5dd0008f4f1471f59d1efc4efea4f"
+libc = "glibc"
+os = "linux"
+
+    [[libatomic_ops.download]]
+    sha256 = "2b1369088ab11aff98a2afbafecb24658da7fd9b89a31b9a4138f271a0a19cfe"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.i686-linux-gnu.tar.gz"
+[[libatomic_ops]]
+arch = "i686"
+git-tree-sha1 = "07bd159dfd52d711fcc6727dd6f627a3e9e39761"
+libc = "musl"
+os = "linux"
+
+    [[libatomic_ops.download]]
+    sha256 = "ebb89168b93a34eb8a06390651799e32510fb40a5cb587e115468294c841c6c1"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.i686-linux-musl.tar.gz"
+[[libatomic_ops]]
+arch = "i686"
+git-tree-sha1 = "50c9d8fe6427f95e6a73f54a6f40f5fad8b5cc6a"
+os = "windows"
+
+    [[libatomic_ops.download]]
+    sha256 = "4daa9f8acdb15d0dfc379ae70c746e05dfe2c2996720ad685a1c2748d05d1e9e"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.i686-w64-mingw32.tar.gz"
+[[libatomic_ops]]
+arch = "powerpc64le"
+git-tree-sha1 = "160d75b696438fac0277d412a0cfa76a074e1fc1"
+libc = "glibc"
+os = "linux"
+
+    [[libatomic_ops.download]]
+    sha256 = "db68247595193970cc053df254c64ed4e71dc02ce1aaa6f1ee06a045e775f16f"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.powerpc64le-linux-gnu.tar.gz"
+[[libatomic_ops]]
+arch = "x86_64"
+git-tree-sha1 = "78897f7d61174b6fc6774d8fa8e55aad4da9d9c1"
+os = "macos"
+
+    [[libatomic_ops.download]]
+    sha256 = "e798f56bb0344dc9054651f4f51664fea23bb816227beaef4d2e3180be05ec9b"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.x86_64-apple-darwin14.tar.gz"
+[[libatomic_ops]]
+arch = "x86_64"
+git-tree-sha1 = "9632664830337216a37be21e9786c7e98cb1a9c5"
+libc = "glibc"
+os = "linux"
+
+    [[libatomic_ops.download]]
+    sha256 = "79843c5a03f5a26ff78eb47f2399871a9283b03646a5cbd7e37cd2d152159c42"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.x86_64-linux-gnu.tar.gz"
+[[libatomic_ops]]
+arch = "x86_64"
+git-tree-sha1 = "ac9d083033706ba891c3e5ba39e6c1fe971b3559"
+libc = "musl"
+os = "linux"
+
+    [[libatomic_ops.download]]
+    sha256 = "0638791048d4a4cc892543ccd9a40d8666d1b03e2603aa23fb5edb7051191211"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.x86_64-linux-musl.tar.gz"
+[[libatomic_ops]]
+arch = "x86_64"
+git-tree-sha1 = "1f3d6884e885b2d7c8ffae77517231d662a1f7ca"
+os = "freebsd"
+
+    [[libatomic_ops.download]]
+    sha256 = "cd866cc9a28183816c00088b96757afddb51b3d9b111a20440a59c87654c3b1a"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.x86_64-unknown-freebsd11.1.tar.gz"
+[[libatomic_ops]]
+arch = "x86_64"
+git-tree-sha1 = "44b9ca9b252c4607dd460fe0407358e45a8a21ad"
+os = "windows"
+
+    [[libatomic_ops.download]]
+    sha256 = "b16ecc83e0ed079a32c19884f3c4acc576a72fbc0d8a31c1864b839eeecdb1fa"
+    url = "https://github.com/JuliaBinaryWrappers/libatomic_ops_jll.jl/releases/download/libatomic_ops-v7.6.10+0/libatomic_ops.v7.6.10.x86_64-w64-mingw32.tar.gz"
